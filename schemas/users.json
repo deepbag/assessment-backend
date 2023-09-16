@@ -1,0 +1,6 @@
+{
+  "id": "INTEGER AUTO_INCREMENT PRIMARY KEY",
+  "email": "TEXT NULL",
+  "phone": "TEXT NULL",
+  "name": "TEXT NULL"
+}
